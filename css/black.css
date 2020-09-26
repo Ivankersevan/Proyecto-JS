@@ -1,0 +1,80 @@
+#logo{
+    background: hsl(200, 6%, 20%);
+}
+
+#menu ul li:hover{
+    background: hsl(200, 6%, 20%);
+}
+
+.button-more{
+    background: hsl(197, 5%, 30%);
+}
+
+body{
+    background: url('../img/negro.jpg');
+    background-attachment: fixed;
+}
+
+#global{
+    background: #413d3d;
+}
+
+#menu{
+    background: rgb(73, 73, 73);
+}
+
+#menu a{
+    color: rgb(202, 201, 201);
+}
+
+#sidebar h4 span{
+    background: #413d3d;
+    padding: 5px;
+}
+
+#sidebar h4{  
+    color: white;
+}
+
+#login{
+    color: white;
+}
+
+.post h2{
+    font-size: 30px;
+    color: white;
+}
+
+.post .date{
+    display: block;
+    color: rgb(184, 176, 176);
+    margin-top: 5px;
+}
+
+.post p{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    text-align: justify;
+    color: white;
+}
+
+#sidebar p{
+    color: white;
+}
+
+#box{
+    width: 60%;
+    float: left;
+    margin-top: 40px;
+}
+
+#box h2{
+    color: white;
+    font-family: Helvetica, Arial ;
+}
+
+#reloj{
+    color: white;
+    border: 5px dashed white;
+}
