@@ -42,7 +42,7 @@ Archivos:
     contacto.html(pagina para contactarme)
     index.html(pagina principal de blog)
     reloj.html(pagina de reloj)
-    README (este archivo)
+    README.md (este archivo)
 
 Ayuda para usuarios:
 
